@@ -8,7 +8,7 @@ permissions:
   models: read
   issues: write
   jobs:
-    analyze:
+   analyze:
       name: AI Issue Completeness
       runs-on: ubuntu-latest
       steps:
